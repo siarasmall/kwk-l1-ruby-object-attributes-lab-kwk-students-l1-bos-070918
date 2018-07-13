@@ -1,10 +1,4 @@
 # dog.rb
 class Dog 
-  def name
-    @name = name
-  end 
-  
-  def name=
-    name = @name
-  end 
+  attr_accessor :name
 end 
