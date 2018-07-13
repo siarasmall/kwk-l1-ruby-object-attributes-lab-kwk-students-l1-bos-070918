@@ -1,4 +1,4 @@
 # dog.rb
 class Dog 
-  attr_accessor :name
+  attr_accessor :name, :breed
 end 
